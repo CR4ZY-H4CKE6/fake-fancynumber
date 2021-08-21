@@ -7,7 +7,7 @@
 
 
 
-         $ git clone https://github.com/Sunaifnfc/fake-fancynumber.git
+         $ git clone https://github.com/CR4ZY-H4CKE6/fake-fancynumber.git
 
                    
 
